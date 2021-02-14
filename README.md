@@ -1,6 +1,13 @@
-# Getting Started with Create React App
+# Evernote clone
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Visit
+https://evernote-clone-9d02d.web.app
+
+## Firebase configuration
+
+Create a fbconfig.js inside src/config folder with the firebase configuration in order to run the app
 
 ## Available Scripts
 
